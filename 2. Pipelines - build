@@ -1,0 +1,2 @@
+# Pipeline - build
+- Code가 업데이트가 되면, 빌드 및 테스트를 통한 지속적인 코드통합 및 artifacts를 생성할수있다.
